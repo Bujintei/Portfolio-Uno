@@ -1,3 +1,20 @@
-body {
-    background-color: #b0c4de;
+html, body {
+ 	padding: 0;
+ 	margin: 0;
+ 	background: url("../img/cityscape.jpg") no-repeat center center fixed;
+	font-family: 'Share Tech', sans-serif;
+}
+#opaCITY{
+	margin:10% 15%;
+	background-color:rgba(155,155,155,0.2);
+	width:950px;
+	height:410px;
+	color:#e8D754;
+	padding-top:10px;
+	padding-right:10px;
+	border:2px solid;
+	border-radius:25px;
+}
+p {
+	text-indent:50px;
 }
