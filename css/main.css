@@ -4,17 +4,41 @@ html, body {
  	background: url("../img/cityscape.jpg") no-repeat center center fixed;
 	font-family: 'Share Tech', sans-serif;
 }
+#Name{
+	margin:3% 15%;
+	background-color:rgba(155,155,155,0.2);
+	width:450px;
+	height:125px;
+	color:#E8D754;
+	border:2px solid;
+	border-radius:25px;
+}
 #opaCITY{
-	margin:10% 15%;
+	margin:0% 15%;
 	background-color:rgba(155,155,155,0.2);
 	width:950px;
 	height:410px;
 	color:#e8D754;
-	padding-top:10px;
-	padding-right:10px;
+	border:2px solid;
+	border-radius:25px;
+	padding-left:104px;
+}
+img{
+	margin-right:115px;
+}
+/*#div1{
+	margin:0% 15% 0% 0%;
+	background-color:red;
+	width:650px;
+	height:410px;
 	border:2px solid;
 	border-radius:25px;
 }
-p {
-	text-indent:50px;
+#div2{
+	margin:0% 0% % 70%;
+	background-color:green;
+	width:300px;
+	height:410px;
+	border:2px solid;
+	border-radius:25px;
 }
